@@ -4,7 +4,6 @@ import Navbar from './components/Navbar';
 import Home from './components/Home';
 import Loader from './components/Loader';
 import Login from './components/Login';
-import Sidebar from './components/Sidebar';
 
 function App() {
   const [city, setCity] = useState('');
